@@ -1,0 +1,35 @@
+(node:12016) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+TypeError: Cannot read properties of undefined (reading 'id')
+    at file:///C:/Users/msi/Desktop/MK/server/src/routes/auth.js:38:76
+    at Layer.handle [as handle_request] (C:\Users\msi\Desktop\MK\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\msi\Desktop\MK\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\msi\Desktop\MK\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\msi\Desktop\MK\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\msi\Desktop\MK\server\node_modules\express\lib\router\index.js:284:15
+    at router.process_params (C:\Users\msi\Desktop\MK\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\msi\Desktop\MK\server\node_modules\express\lib\router\index.js:280:10)
+    at router.handle (C:\Users\msi\Desktop\MK\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\msi\Desktop\MK\server\node_modules\express\lib\router\index.js:47:12)
+TypeError: Cannot read properties of undefined (reading 'id')
+    at file:///C:/Users/msi/Desktop/MK/server/src/routes/auth.js:38:76
+    at Layer.handle [as handle_request] (C:\Users\msi\Desktop\MK\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\msi\Desktop\MK\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\msi\Desktop\MK\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\msi\Desktop\MK\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\msi\Desktop\MK\server\node_modules\express\lib\router\index.js:284:15
+    at router.process_params (C:\Users\msi\Desktop\MK\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\msi\Desktop\MK\server\node_modules\express\lib\router\index.js:280:10)
+    at router.handle (C:\Users\msi\Desktop\MK\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\msi\Desktop\MK\server\node_modules\express\lib\router\index.js:47:12)
+TypeError: Cannot read properties of undefined (reading 'id')
+    at file:///C:/Users/msi/Desktop/MK/server/src/routes/auth.js:38:76
+    at Layer.handle [as handle_request] (C:\Users\msi\Desktop\MK\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\msi\Desktop\MK\server\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\msi\Desktop\MK\server\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\msi\Desktop\MK\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\msi\Desktop\MK\server\node_modules\express\lib\router\index.js:284:15
+    at router.process_params (C:\Users\msi\Desktop\MK\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\msi\Desktop\MK\server\node_modules\express\lib\router\index.js:280:10)
+    at router.handle (C:\Users\msi\Desktop\MK\server\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\msi\Desktop\MK\server\node_modules\express\lib\router\index.js:47:12)
